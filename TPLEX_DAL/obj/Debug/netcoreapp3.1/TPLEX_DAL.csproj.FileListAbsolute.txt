@@ -1,0 +1,12 @@
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\bin\Debug\netcoreapp3.1\TPLEX_DAL.deps.json
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\bin\Debug\netcoreapp3.1\TPLEX_DAL.runtimeconfig.json
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\bin\Debug\netcoreapp3.1\TPLEX_DAL.runtimeconfig.dev.json
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\bin\Debug\netcoreapp3.1\TPLEX_DAL.dll
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\bin\Debug\netcoreapp3.1\TPLEX_DAL.pdb
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\obj\Debug\netcoreapp3.1\TPLEX_DAL.AssemblyInfoInputs.cache
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\obj\Debug\netcoreapp3.1\TPLEX_DAL.AssemblyInfo.cs
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\obj\Debug\netcoreapp3.1\TPLEX_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\obj\Debug\netcoreapp3.1\TPLEX_DAL.dll
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\obj\Debug\netcoreapp3.1\TPLEX_DAL.pdb
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\obj\Debug\netcoreapp3.1\TPLEX_DAL.genruntimeconfig.cache
+C:\Users\Icon\source\repos\TPLEX_InterviewTest\TPLEX_DAL\obj\Debug\netcoreapp3.1\TPLEX_DAL.csprojAssemblyReference.cache
